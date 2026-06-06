@@ -11,7 +11,7 @@ A Power BI healthcare analytics project analyzing clinical performance, patient 
 
 ## 📷 Dashboard Preview
 
-![Northlake Healthcare Dashboard](images/dashboard1.png)
+[![Dashboard Preview](images/NorthLake1.png)](https://app.powerbi.com/view?r=eyJrIjoiMzgzMmJjNDEtMGY2MC00NzkwLWI2YjMtNjFkMDExMDI5ZmY1IiwidCI6IjE3NmVkYzJjLTQzM2UtNGEwZS04YWIyLTMyZTI5NTVjODQ5YSJ9)
 
 ---
 
@@ -197,7 +197,7 @@ This dashboard helped identify:
 
 ### Healthcare Overview
 
-![Healthcare Overview](images/dashboard1.png)
+![Healthcare Overview](images/Northlake1.png)
 
 ### Clinical Performance
 
