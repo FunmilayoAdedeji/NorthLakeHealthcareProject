@@ -197,19 +197,19 @@ This dashboard helped identify:
 
 ### Healthcare Overview
 
-![Healthcare Overview](images/Northlake1.png)
+![Healthcare Overview](images/NorthLake1.jpeg)
 
 ### Clinical Performance
 
-![Clinical Performance](images/dashboard2.png)
+![Clinical Performance](images/NorthLake2.jpeg)
 
 ### Patient Demographics
 
-![Patient Demographics](images/dashboard3.png)
+![Patient Demographics](images/NorthLake3.jpeg)
 
 ### Financial Performance
 
-![Financial Performance](images/dashboard4.png)
+![Financial Performance](images/NorthLake4.jpeg)
 
 ---
 
