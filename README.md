@@ -227,17 +227,4 @@ This dashboard helped identify:
 
 ---
 
-## 📁 Repository Structure
 
-```text
-Northlake-Healthcare-Analytics/
-│
-├── README.md
-├── Northlake-Healthcare-Dashboard.pbix
-├── Northlake-Healthcare-Dataset.xlsx
-│
-├── images/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   └── dashboard4.png
